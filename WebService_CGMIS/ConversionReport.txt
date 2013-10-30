@@ -1,0 +1,19 @@
+﻿此报告显示将 Web 应用程序从 ASP.NET 1.1 转换为 ASP.NET 2.0 所执行的步骤。
+可能存在一些未解决的转换问题，您需要对这些问题进行手动修复。
+有关详细信息，请参考 http://go.microsoft.com/fwlink/?LinkId=46995 或搜索帮助主题“从 Visual Studio .NET 2002 或 2003 转换”。
+从位于 May 14 2013, 14:11:25 的项目文件 WebService_CGMIS.vbproj 开始转换。
+
+=========================错误===================
+
+=========================注释=================
+Web.Config: 已添加“xhtmlConformance”属性。
+已从文件 Global.asax 中移除属性 Codebehind。
+已添加文件夹 App_Code。
+已将文件 Global.asax.vb 移动到 App_Code\ 目录中。
+已将文件 Service1.asmx.vb 移动到 App_Code\ 目录中。
+已将文件 SenseLock.vb 移动到 App_Code\ 目录中。
+已将文件 AssemblyInfo.vb 移动到 App_Code\ 目录中。
+所有项目的 HTML 验证架构都已更改为“Internet Explorer 6.0”。
+已移除文件 WebService_CGMIS.vbproj。
+已移除文件 WebService_CGMIS.vbproj.webinfo。
+项目 WebService_CGMIS.vbproj 已在 May 14 2013, 14:11:38 成功转换。
